@@ -43,7 +43,7 @@ export default function Home() {
 
           <h5 className="mx-auto mt-8 max-w-4xl px-10 text-center text-base tracking-tight text-gray-600 sm:text-1xl md:mt-5 md:text-1xl">
             Taking inspiration from the generous <a href="https://js.org"><b>JS.ORG</b></a> project and <a href="https://merahputih.id/"><b>Merahputih.id</b></a>'s vibes we at <a href="https://github.com/ScathachGrip"><b>@ScathachGrip</b></a> thought of giving something back to the
-            weeb developers: a free, sleek, and themost important is "moh-ay" URL where you can host a free website or documentation for your project UwU.
+            weeb developers: a free, sleek, and the most important is "moh-ay" URL where you can host a free website or documentation for your project UwU.
           </h5>
 
           <div className="px-4 sm:px-0">
