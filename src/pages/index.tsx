@@ -12,9 +12,13 @@ export default function Home() {
 
         <meta
           name="description"
-          content="Use tailwind css, eslint, prettier & absolute imports instantly.
-            Easily extendable zero-config template for pros and beginners."
+          content="Get your own subdomain which is pretty 'moh-ay' merahputih.moe UwU"
         />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="theme-color" content="#FF0000" />
+        <meta property="og:image" content="/img/mohay.jpg" />
+        <meta name="author" content="ScathachGrip" />
+
 
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -33,7 +37,7 @@ export default function Home() {
           <h2 className="mx-auto mt-8 max-w-4xl px-10 text-center text-base tracking-tight text-gray-600 sm:text-2xl md:mt-5 md:text-2xl">
             Are you weeb developer looking for free webspace to host your project?
             <br />
-            Get your own pretty "moh-ay" subdomain <u>merahputih.moe</u> UwU
+            Get subdomain pretty "moh-ay" <b>merahputih.moe</b> UwU
           </h2>
           <br />
 
@@ -90,7 +94,7 @@ export default function Home() {
                   <Image src="/img/mohay.jpg" style={{ borderRadius: "50%" }} width={300} height={300} title="mohay" alt="mohay" />
                 </div>
                 <span className="inline-flex rounded-md shadow-sm">
-                  <Link href="https://github.com/agcty/nextjs-advanced-starter">
+                  <Link href="https://github.com/ScathachGrip/merahputih.moe">
                     <a
                       type="button"
                       className="inline-flex items-center rounded-md border border-transparent bg-blue-600 px-4 py-4 font-medium leading-6 text-white transition duration-150 ease-in-out hover:bg-blue-500 focus:border-blue-700 focus:outline-none focus:ring-4 focus:ring-blue-400 active:bg-blue-700 sm:px-10"
@@ -101,7 +105,7 @@ export default function Home() {
                 </span>
               </div>
             </section>
-            
+
             <h5 className="mx-auto mt-8 max-w-4xl px-10 text-center text-base tracking-tight text-black-600 sm:text-1xl md:mt-5 md:text-1xl">
               <b>EOF</b>: <u>merahputih.moe</u> and <u>merahputih.id</u> are completely different, we don't provide any email service or such.
             </h5>
