@@ -1,8 +1,9 @@
 {
   "name": "merahputih.moe",
   "author": "ScathachGrip",
+  "description": "MerahPutih.moe UwU",
   "license": "MIT",
-  "version": "1.1.8",
+  "version": "1.1.10-dev",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,6 +11,11 @@
     "lint": "eslint src",
     "lint:fix": "eslint src --fix",
     "pr:check": "mocha -r ts-node/register 'test/pull_requests.ts'"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScathachGrip/merahputih.moe.git"
   },
   "dependencies": {
     "next": "12.1.1",
