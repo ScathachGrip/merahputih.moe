@@ -58,23 +58,23 @@ export default function Home() {
                   What's the purpose? UwU
                 </div>
                 <FeatureList>
-                  <Feature main="Moe">
+                  <Feature main="Moeify">
                     Moeify your website of course
                   </Feature>
 
-                  <Feature main="Docs">
+                  <Feature main="Build documentaion">
                     Build documentaion to your project
                   </Feature>
 
-                  <Feature main="Web">
+                  <Feature main="Host website">
                     Build your website application
                   </Feature>
 
-                  <Feature main="Community">
+                  <Feature main="Community profile">
                     Build your company or community profile
                   </Feature>
 
-                  <Feature main="Blog">
+                  <Feature main="Build blog">
                     Build portfolio, blog, and anything else
                   </Feature>
 
@@ -99,7 +99,7 @@ export default function Home() {
                       type="button"
                       className="inline-flex items-center rounded-md border border-transparent bg-blue-600 px-4 py-4 font-medium leading-6 text-white transition duration-150 ease-in-out hover:bg-blue-500 focus:border-blue-700 focus:outline-none focus:ring-4 focus:ring-blue-400 active:bg-blue-700 sm:px-10"
                     >
-                      Stars, Forks, and Get started
+                      Make a pull request
                     </a>
                   </Link>
                 </span>
@@ -107,7 +107,7 @@ export default function Home() {
             </section>
 
             <h5 className="mx-auto mt-8 max-w-4xl px-10 text-center text-base tracking-tight text-black-600 sm:text-1xl md:mt-5 md:text-1xl">
-              <b>EOF</b>: <u>merahputih.moe</u> and <u>merahputih.id</u> are completely different, we don't provide any email service or such.
+              <b>merahputih.moe</b> and <b>merahputih.id</b> are completely different, we don't provide any email service or such.
             </h5>
 
           </div>
