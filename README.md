@@ -4,11 +4,11 @@
 Taking inspiration from the generous [JS.ORG](https://github.com/js-org/js.org) project and [Merahputih.id](https://merahputih.id/)'s vibes we at [@ScathachGrip](https://github.com/ScathachGrip) thought of giving something back to the weeb developers: a free, sleek, and the most important is "moh-ay" URL where you can host a free website or documentation for your project UwU
 
 - [Merahputih.moe](https://merahputih.moe)
-  - [How to get one](how-to-get-one)
-  - [Add a CNAME to your repo](add-a-cname-to-your-repo)
-- [For advanced users](for-advanced-users)
-- [No proxied rules](no-proxied-rules)
-- [Closing Remarks](closing-remarks)
+  - [How to get one](#how-to-get-one)
+  - [Add a CNAME to your repo](#add-a-cname-to-your-repo)
+- [For advanced users](#for-advanced-users)
+- [No proxied rules](#no-proxied-rules)
+- [Closing Remarks](#closing-remarks)
 
 ----
 
