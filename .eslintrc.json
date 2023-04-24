@@ -44,6 +44,7 @@
     "jsx-a11y/label-has-associated-control": 0,
     "react/no-unused-prop-types": 0,
     "no-underscore-dangle": 0,
+    "import/no-anonymous-default-export": 0,
     "quotes": [
       "error",
       "double"
