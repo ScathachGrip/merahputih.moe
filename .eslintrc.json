@@ -63,15 +63,6 @@
         "argsIgnorePattern": "^_"
       }
     ],
-    "no-console": [
-      2,
-      {
-        "allow": [
-          "warn",
-          "error"
-        ]
-      }
-    ],
     "import/order": [
       "error",
       {
