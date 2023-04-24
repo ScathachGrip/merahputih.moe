@@ -46,4 +46,4 @@ actually point your merahputih.moe to many different services that allow custom 
 If your site throwing an error such as `ERR_TOO_MANY_REDIRECTS` kindly disable proxied by marking your cnames with `//noProxied` comment.
 
 ## Closing Remarks
-[CLOSING_REMARKS.md](https://github.com/sinkaroid/lustpress/blob/master/CLOSING_REMARKS.md)
+[CLOSING_REMARKS.md](https://github.com/ScathachGrip/merahputih.moe/blob/master/CLOSING_REMARKS.md)
