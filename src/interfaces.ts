@@ -3,3 +3,7 @@ export interface ICnames {
         [key: string]: string;
     }
 };
+
+export interface IRestricted {
+    list: RegExp[];
+}
