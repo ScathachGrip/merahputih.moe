@@ -43,7 +43,7 @@ Our subdomain are `CNAME` records which map one domain name to another. You can
 actually point your merahputih.moe to many different services that allow custom domain.
 
 ## No proxied rules
-If your site throwing an error such as `ERR_TOO_MANY_REDIRECTS` kindly disable proxied by marking your cnames with `//noProxied` comment.
+If your site throwing an error such as `ERR_TOO_MANY_REDIRECTS` kindly disable proxied by marking your cnames with `//noProxied` comment, You will get only DNS records with no SSL/TLS encryption.
 
 ## Closing Remarks
 [CLOSING_REMARKS.md](https://github.com/ScathachGrip/merahputih.moe/blob/master/CLOSING_REMARKS.md)
