@@ -6,5 +6,6 @@ export const data: ICnames = {
     "janda": "sinkaroid.github.io/jandapress",
     "lust": "sinkaroid.github.io/lustpress",
     "scathach": "scathachgrip.github.io",
+    "ad": "adedev-w.github.io/MyProject"
   }
 };
