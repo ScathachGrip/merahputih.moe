@@ -8,6 +8,6 @@ export const data: ICnames = {
     "scathach": "scathachgrip.github.io",
     "wibuapi": "wibuapi.onrender.com",
     "zyxdevs": "zyxdevs.github.io/zYxDevs",
-    "ryuxyro": "ryuxyro.rf.gd"
+    "ryuxyro": "ryuxyro.github.io/RyuXyro"
   }
 };
