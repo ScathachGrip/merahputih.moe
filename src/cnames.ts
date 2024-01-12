@@ -7,7 +7,7 @@ export const data: ICnames = {
     "lust": "sinkaroid.github.io/lustpress",
     "scathach": "scathachgrip.github.io",
     "wibuapi": "wibuapi.onrender.com",
+    "ryuxyro": "ryuxyro.github.io/moe",
     "zyxdevs": "zyxdevs.github.io/zYxDevs",
-    "ryuxyro": "ryuxyro.github.io/RyuXyro",
   }
 };
