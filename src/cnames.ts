@@ -6,8 +6,8 @@ export const data: ICnames = {
     "janda": "sinkaroid.github.io/jandapress",
     "lust": "sinkaroid.github.io/lustpress",
     "scathach": "scathachgrip.github.io",
-    "wibuapi": "wibuapi.onrender.com",
     "ryuxyro": "ryuxyro.github.io/moe",
+    "wibuapi": "wibuapi.onrender.com",
     "zyxdevs": "zyxdevs.github.io/zYxDevs",
   }
 };
